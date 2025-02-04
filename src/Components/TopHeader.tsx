@@ -1,9 +1,9 @@
-import React from "react";
+
 
 const TopHeader = () => {
   return (
     <div className="bg-blue-600">
-      <marquee>
+      <marquee >
         <div className="flex items-center gap-4 p-2">
           <p className="text-white font-medium text-sm">
             Currenly, I am looking for job change.

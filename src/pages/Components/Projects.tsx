@@ -1,4 +1,4 @@
-import React from "react";
+
 import Piano from "../../assets/piano.png";
 import TicTak from "../../assets/tictak.png";
 import Calculator from "../../assets/calculator.png";
