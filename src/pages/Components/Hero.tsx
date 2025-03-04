@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const Hero = () => {
   const roles = ["Web Developer.", "Coder.", "Developer.", "Learner."];

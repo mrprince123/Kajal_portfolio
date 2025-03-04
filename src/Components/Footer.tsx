@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const Footer = () => {
   return (
@@ -44,9 +44,9 @@ const Footer = () => {
         <div>
           <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
           <ul className="space-y-2">
-            <li className="text-gray-400">San Francisco, CA</li>
-            <li className="text-gray-400">john.doe@example.com</li>
-            <li className="text-gray-400">+1 (555) 123-4567</li>
+            <li className="text-gray-400">Banglore</li>
+            <li className="text-gray-400">kjal66511@gmail.com</li>
+          
           </ul>
         </div>
 

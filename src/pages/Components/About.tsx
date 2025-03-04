@@ -1,5 +1,4 @@
-import React from "react";
-import Resume from "./Prince_Sept_Resume.pdf";
+
 
 const About = () => {
   return (
